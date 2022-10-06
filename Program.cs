@@ -4,8 +4,9 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(  "welcome to line comparision problem");
-            LengthOfLine.CalculateLengthOfLine();
+            // Console.WriteLine(  "welcome to line comparision problem");
+            //  LengthOfLine.CalculateLengthOfLine();
+            LineEquality.CheckEqualityOfLines();
         }
 
     }
